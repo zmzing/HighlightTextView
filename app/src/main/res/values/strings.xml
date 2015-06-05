@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HighlightTextView</string>
+
+    <string name="title">Highlight tag: [(Left), ](Right)</string>
+    <string name="test_content_1">[key]</string>
+    <string name="test_content_2">[key]12345</string>
+    <string name="test_content_3">12345[key]</string>
+    <string name="test_content_4">12345[key]12345</string>
+    <string name="test_content_5">12345[key]12345[key]12345</string>
+</resources>
