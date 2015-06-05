@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 默认高亮色 -->
+    <color name="base_highlight_color">#14CCC6</color>
+    <!-- 默认文字颜色 -->
+    <color name="base_text_color">#323232</color>
+
+</resources>
