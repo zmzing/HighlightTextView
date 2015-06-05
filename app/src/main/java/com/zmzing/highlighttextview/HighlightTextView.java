@@ -12,10 +12,6 @@ import android.widget.TextView;
 
 /**
  * 关键字高亮 TextView
- *
- * @author zhangmao
- * @version 4.6.0
- * @since 2015-06-01
  */
 public class HighlightTextView extends TextView {
 
